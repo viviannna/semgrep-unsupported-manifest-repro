@@ -1,0 +1,1 @@
+print("Unsupported manifest reproduction")
